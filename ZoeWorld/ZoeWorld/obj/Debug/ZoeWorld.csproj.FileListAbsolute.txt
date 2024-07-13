@@ -1,0 +1,13 @@
+E:\home\winform\ZoeWorld\ZoeWorld\bin\Debug\ZoeWorld.exe.config
+E:\home\winform\ZoeWorld\ZoeWorld\bin\Debug\ZoeWorld.exe
+E:\home\winform\ZoeWorld\ZoeWorld\bin\Debug\ZoeWorld.pdb
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MAINVIEW.Excel.ExcelForm.resources
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MAINVIEW.Login.Login.resources
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.Properties.Resources.resources
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.csproj.GenerateResource.cache
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.csproj.CoreCompileInputs.cache
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.exe
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.pdb
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.csprojAssemblyReference.cache
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MAINVIEW.Excel.ImageExchange.resources
+E:\home\winform\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MAINVIEW.ImageConversion.ImageConverseForm.resources
