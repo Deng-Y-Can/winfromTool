@@ -892,3 +892,4 @@ E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\System.Memory.xml
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\System.Numerics.Vectors.xml
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.VlcPlayerForm.resources
+E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MainForm.resources

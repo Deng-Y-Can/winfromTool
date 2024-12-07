@@ -91,11 +91,11 @@
     <Compile Include="DLL\AccessUser.cs" />
     <Compile Include="DLL\db\Sqlite.cs" />
     <Compile Include="DLL\ExcelOperater.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="MAINVIEW\Excel\ExcelForm.cs">
       <SubType>Form</SubType>
@@ -135,6 +135,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MAINVIEW\Excel\ExcelForm.resx">
       <DependentUpon>ExcelForm.cs</DependentUpon>
     </EmbeddedResource>
