@@ -893,3 +893,5 @@ E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\System.Numerics.V
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.VlcPlayerForm.resources
 E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\obj\Debug\ZoeWorld.MainForm.resources
+E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\ExCSS.dll
+E:\home\github\Winform\winfromTool\ZoeWorld\ZoeWorld\bin\Debug\MediaToolkit.dll
